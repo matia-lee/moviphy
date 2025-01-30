@@ -1,0 +1,9 @@
+*.json
+
+*.csv
+
+*.wav
+
+*.mp4
+
+/venv
